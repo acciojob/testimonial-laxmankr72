@@ -7,8 +7,8 @@
 	background-color:white;
 	padding:1em;
 	margin:1.5em 0 1.5em 0;
+	border:1px solid gray;
 }
 .Container div p{
-	display:flex;
-	flex-direction:row-reverse;
+	Text-align: right;
 }
