@@ -9,6 +9,8 @@
 	margin:1.5em 0 1.5em 0;
 	border:1px solid gray;
 }
-.Container div p{
-	Text-align: right;
+.author{
+	display:flex;
+	flex-direction:row-reverse;
+	text-align:right;
 }
