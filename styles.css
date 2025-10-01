@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.Container{
+	Background-color:#f5f5f5;
+	padding:3em;
+}
+.Container div{
+	background-color:white;
+	padding:1em;
+	margin:1.5em 0 1.5em 0;
+}
+.Container div p{
+	display:flex;
+	flex-direction:row-reverse;
+}
